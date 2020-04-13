@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/jason/proprietary/vendor/firmware/jason_bu63169_semco.coeff:$(TARGET_COPY_OUT_VENDOR)/firmware/jason_bu63169_semco.coeff \
     vendor/xiaomi/jason/proprietary/vendor/firmware/jason_bu63169_semco.prog:$(TARGET_COPY_OUT_VENDOR)/firmware/jason_bu63169_semco.prog \
     vendor/xiaomi/jason/proprietary/vendor/lib/libicuuc-v28.so:$(TARGET_COPY_OUT_VENDOR)/lib/libicuuc-v28.so \
-    vendor/xiaomi/jason/proprietary/vendor/lib/libminikin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libminikin.so \
+    vendor/xiaomi/jason/proprietary/vendor/lib/libminikip.so:$(TARGET_COPY_OUT_VENDOR)/lib/libminikip.so \
     vendor/xiaomi/jason/proprietary/vendor/bin/cnss-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/cnss-daemon \
     vendor/xiaomi/jason/proprietary/vendor/bin/nqnfcinfo:$(TARGET_COPY_OUT_VENDOR)/bin/nqnfcinfo \
     vendor/xiaomi/jason/proprietary/vendor/bin/remosaic_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/remosaic_daemon \
