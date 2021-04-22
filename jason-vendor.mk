@@ -47,11 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/jason/proprietary/vendor/etc/sdr_config.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/sdr_config.cfg \
     vendor/xiaomi/jason/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/xiaomi/jason/proprietary/vendor/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev.conf \
-    vendor/xiaomi/jason/proprietary/vendor/etc/thermal-engine-sdm660-high.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm660-high.conf \
-    vendor/xiaomi/jason/proprietary/vendor/etc/thermal-engine-sdm660-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm660-map.conf \
-    vendor/xiaomi/jason/proprietary/vendor/etc/thermal-engine-sdm660-nolimits.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm660-nolimits.conf \
-    vendor/xiaomi/jason/proprietary/vendor/etc/thermal-engine-sdm660.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm660.conf \
-    vendor/xiaomi/jason/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/xiaomi/jason/proprietary/vendor/firmware/a512_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b00 \
     vendor/xiaomi/jason/proprietary/vendor/firmware/a512_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b01 \
     vendor/xiaomi/jason/proprietary/vendor/firmware/a512_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a512_zap.b02 \
